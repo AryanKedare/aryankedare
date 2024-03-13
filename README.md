@@ -7,18 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/kedarearyan" target="blank"><img src="https://img.shields.io/twitter/follow/kedarearyan?logo=twitter&style=for-the-badge" alt="kedarearyan" /></a> </p>
 
-- 🔭 I’m currently working on [PixelExteneded For Redmi Note 4/4X](https://pixelextended.me/)
-
-- 🌱 I’m currently learning **JAVA, Python**
-
-- 👨‍💻 All of my projects are available at [https://t.me/devilproject](https://t.me/devilproject)
-
-- 💬 Ask me about **Android Stuff, Rom Building**
-
-- 📫 How to reach me **aryankedare@protonmail.com**
-
-- 📄 Know about my experiences [https://forum.xda-developers.com/m/aryan-kedare.6537039/#recent-content](https://forum.xda-developers.com/m/aryan-kedare.6537039/#recent-content)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kedarearyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kedarearyan" height="30" width="40" /></a>
