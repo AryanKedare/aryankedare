@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aryan Kedare 👋</h1>
 
 <p align="center">
-  <strong>Cybersecurity Analyst · MSc Information Security (1:1) · ISC2 CC Certified</strong><br/>
+  <strong>Cybersecurity Analyst</strong><br/>
   Dublin, Ireland &nbsp;|&nbsp;
   <a href="mailto:aryankedare.ie@gmail.com">aryankedare.ie@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://aryankedare.github.io" target="_blank">Portfolio</a>
@@ -14,26 +14,9 @@
 ---
 
 ## 🛡️ About Me
-
-- 🎓 **MSc in Cybersecurity** — National College of Ireland *(First Class Honours, 1:1)*
-- 🎓 **B.Sc in Computer Science** — Fergusson College, Pune *(First Class Honours, 1:1, 2019–2022)*
-- 🏆 **ISC2 Certified in Cybersecurity (CC)** · **CNSP (The SecOps Group)**
 - 💼 **2.5+ years** in cybersecurity — SOC monitoring, GRC, IAM, vulnerability management
 - 🌍 Based in Dublin, Ireland · Stamp 1G (valid to Dec 2027)
 - 📫 Reach me: **aryankedare.ie@gmail.com**
-
----
-
-## 💼 Experience
-
-**Associate Analyst — Deloitte** *(Aug 2022 – Sep 2024)*
-> SOC monitoring · Phishing IR · SIEM tuning · Nessus/Qualys · Active Directory · NIST/ISO 27001 · Firewall/ACL reviews
-
-**Desktop Engineer — Ram Sangam Infotech** *(Sep 2020 – Aug 2021)*
-> Endpoint forensics · Chain of custody · Log analysis · Incident containment
-
-**Customer Assistant — Lidl Ireland** *(Sep 2024 – Present)*
-> Store operations · Stock management · Customer service · Health & safety compliance
 
 ---
 
